@@ -1,0 +1,10 @@
+name: ead-mackenzie
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pandas
+  - python
+  - seaborn
+  - matplotlib
+  - jupyter
